@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Kamchatka Airlines</string>
+    <string name="button_nav_about">О нас</string>
+    <string name="button_nav_buy">Купить</string>
+    <string name="button_nav_timetable">Расписание</string>
+    <string name="button_nav_comments">Отзывы</string>
+    <string name="button_nav_profile">Профиль</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about_info">Kamchatka Airlines - ваш партнер в мире воздушных перевозок. Мы специализируемся на обеспечении комфортных и безопасных полетов, соединяя Камчатку с ключевыми направлениями по всему миру.</string>
+    <string name="tv_buying_tickets">Покупка билетов</string>
+    <string name="tv_name">Имя:</string>
+    <string name="et_name">Name</string>
+    <string name="tv_email">Электронная почта:</string>
+    <string name="et_email">Email</string>
+    <string name="tv_destination">Пункт назначения:</string>
+    <string name="et_destination">Destination</string>
+    <string name="tv_number_of_tickets">Количество билетов:</string>
+    <string name="et_number_of_tickets">Number of tickets</string>
+    <string name="button_buy_ticket">Купить билет(-ы)</string>
+    <string name="title_reviews">Отзывы</string>
+    <string name="title_profile">Профиль</string>
+    <string name="tv_example_name">Николай Судаков</string>
+    <string name="tv_example_email">nikolay.sudakov@mail.ru</string>
+    <string name="tv_number_of_tickets_purchased">Количество купленных билетов:</string>
+    <string name="tv_example_number_of_tickets_purchased">2</string>
+    <string name="title_schedule">Расписание</string>
+    <string name="table_number">№</string>
+    <string name="table_name">Имя</string>
+    <string name="table_price">Цена</string>
+    <string name="table_where">Куда</string>
+    <string name="image_airlines">Image Airlines</string>
+</resources>
